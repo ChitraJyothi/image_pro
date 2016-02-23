@@ -1,1 +1,2 @@
-# image_pro
+The objective of this work is “prevention is better than cure”.
+This work aims at creating a portable and efficient way of detecting the criminals who try and intrude into any of the public place and are caught around the cameras view, matching the database records of the criminals. The goal of the work is to increase the sense of security in malls, railway stations and other public places and are prone to threats.
